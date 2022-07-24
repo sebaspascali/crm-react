@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ringo Pascali",
+      "empresa": "Perritos S.A",
+      "email": "as@gmail.com",
+      "telefono": "6777665555",
+      "notas": "Esta todo bien y correcto",
+      "id": 1
+    },
+    {
+      "nombre": "sebastian",
+      "empresa": "orange",
+      "email": "correo@gmail.com",
+      "telefono": "677366658",
+      "notas": "es una prueba",
+      "id": 2
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "Puailina@gmail.com",
+      "telefono": "6555656565",
+      "notas": "Paulina es una constructora. ",
+      "id": 3
+    },
+    {
+      "nombre": "Bianca",
+      "empresa": "Rascando bolas",
+      "email": "bianca12@gmail.com",
+      "telefono": "68885588844",
+      "notas": "es un ejemplo nuemero 39",
+      "id": 4
+    }
+  ]
+}
